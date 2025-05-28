@@ -40,4 +40,5 @@ OUTPUT
 
 
 RESULT
+
 Thus the python program was initialised and executed successfully.
