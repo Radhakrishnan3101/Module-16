@@ -110,8 +110,10 @@ if __name__ == '__main__':
   main()
 ```
 OUTPUT
+
 ![image](https://github.com/user-attachments/assets/f2e96d41-0acd-4e38-9fe4-5180512ae4c8)
 
 
 RESULT
+
 Thus the python program was initialised and executed successfully.
